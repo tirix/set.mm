@@ -8376,7 +8376,6 @@
 "idi" is used by "rngcifuestrc".
 "idi" is used by "sge0f1o".
 "idi" is used by "smfinfmpt".
-"idi" is used by "smfsupmpt".
 "idi" is used by "ssmapsn".
 "idiALT" is used by "ax6e2nd".
 "idiALT" is used by "ax6e2ndALT".
@@ -16380,6 +16379,7 @@ New usage of "fldcALTV" is discouraged (0 uses).
 New usage of "fldcatALTV" is discouraged (1 uses).
 New usage of "flddivrng" is discouraged (2 uses).
 New usage of "fldhmsubcALTV" is discouraged (0 uses).
+New usage of "fldidomOLD" is discouraged (0 uses).
 New usage of "fncoOLD" is discouraged (0 uses).
 New usage of "fnexALT" is discouraged (0 uses).
 New usage of "fnresiOLD" is discouraged (0 uses).
@@ -16960,7 +16960,7 @@ New usage of "idALT" is discouraged (1 uses).
 New usage of "idcnop" is discouraged (2 uses).
 New usage of "iden2" is discouraged (0 uses).
 New usage of "idhmop" is discouraged (6 uses).
-New usage of "idi" is discouraged (11 uses).
+New usage of "idi" is discouraged (10 uses).
 New usage of "idiALT" is discouraged (12 uses).
 New usage of "idiVD" is discouraged (0 uses).
 New usage of "idleop" is discouraged (1 uses).
@@ -17527,7 +17527,15 @@ New usage of "moexexv" is discouraged (0 uses).
 New usage of "mof0ALT" is discouraged (0 uses).
 New usage of "mpjao3danOLD" is discouraged (0 uses).
 New usage of "mpofunOLD" is discouraged (0 uses).
-New usage of "mpteq12dvOLD" is discouraged (0 uses).
+New usage of "mpteq12daOLD" is discouraged (0 uses).
+New usage of "mpteq12dfOLD" is discouraged (0 uses).
+New usage of "mpteq12dvaOLD" is discouraged (0 uses).
+New usage of "mpteq1OLD" is discouraged (0 uses).
+New usage of "mpteq1dfOLD" is discouraged (0 uses).
+New usage of "mpteq1iOLD" is discouraged (0 uses).
+New usage of "mpteq2daOLD" is discouraged (0 uses).
+New usage of "mpteq2dvaOLD" is discouraged (0 uses).
+New usage of "mpteq2iaOLD" is discouraged (0 uses).
 New usage of "mptresidOLD" is discouraged (0 uses).
 New usage of "mptssALT" is discouraged (0 uses).
 New usage of "mpv" is discouraged (1 uses).
@@ -20036,6 +20044,7 @@ Proof modification of "fimadmfoALT" is discouraged (108 steps).
 Proof modification of "findOLD" is discouraged (70 steps).
 Proof modification of "findcard2OLD" is discouraged (535 steps).
 Proof modification of "fineqvacALT" is discouraged (40 steps).
+Proof modification of "fldidomOLD" is discouraged (34 steps).
 Proof modification of "fncoOLD" is discouraged (95 steps).
 Proof modification of "fnexALT" is discouraged (111 steps).
 Proof modification of "fnresiOLD" is discouraged (25 steps).
@@ -20424,7 +20433,15 @@ Proof modification of "mobidvALT" is discouraged (48 steps).
 Proof modification of "mof0ALT" is discouraged (67 steps).
 Proof modification of "mpjao3danOLD" is discouraged (29 steps).
 Proof modification of "mpofunOLD" is discouraged (95 steps).
-Proof modification of "mpteq12dvOLD" is discouraged (18 steps).
+Proof modification of "mpteq12daOLD" is discouraged (41 steps).
+Proof modification of "mpteq12dfOLD" is discouraged (70 steps).
+Proof modification of "mpteq12dvaOLD" is discouraged (39 steps).
+Proof modification of "mpteq1OLD" is discouraged (35 steps).
+Proof modification of "mpteq1dfOLD" is discouraged (40 steps).
+Proof modification of "mpteq1iOLD" is discouraged (19 steps).
+Proof modification of "mpteq2daOLD" is discouraged (47 steps).
+Proof modification of "mpteq2dvaOLD" is discouraged (10 steps).
+Proof modification of "mpteq2iaOLD" is discouraged (37 steps).
 Proof modification of "mptresidOLD" is discouraged (28 steps).
 Proof modification of "mptssALT" is discouraged (57 steps).
 Proof modification of "mrelatglbALT" is discouraged (66 steps).
