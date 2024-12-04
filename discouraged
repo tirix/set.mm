@@ -14289,6 +14289,7 @@ New usage of "1ne0sr" is discouraged (1 uses).
 New usage of "1nq" is discouraged (9 uses).
 New usage of "1nqenq" is discouraged (1 uses).
 New usage of "1oexOLD" is discouraged (0 uses).
+New usage of "1onOLD" is discouraged (0 uses).
 New usage of "1p1e2apr1" is discouraged (0 uses).
 New usage of "1p2e3ALT" is discouraged (0 uses).
 New usage of "1pi" is discouraged (11 uses).
@@ -14329,6 +14330,7 @@ New usage of "2lplnmN" is discouraged (0 uses).
 New usage of "2moex" is discouraged (1 uses).
 New usage of "2moswap" is discouraged (1 uses).
 New usage of "2oexOLD" is discouraged (0 uses).
+New usage of "2onOLD" is discouraged (0 uses).
 New usage of "2pm13.193" is discouraged (3 uses).
 New usage of "2pm13.193VD" is discouraged (0 uses).
 New usage of "2pmaplubN" is discouraged (1 uses).
@@ -16550,6 +16552,7 @@ New usage of "enrer" is discouraged (8 uses).
 New usage of "enrex" is discouraged (9 uses).
 New usage of "ensn1OLD" is discouraged (0 uses).
 New usage of "ensucne0OLD" is discouraged (0 uses).
+New usage of "epweonOLD" is discouraged (0 uses).
 New usage of "eq0ALT" is discouraged (0 uses).
 New usage of "eq0OLDOLD" is discouraged (0 uses).
 New usage of "eq0rdvALT" is discouraged (0 uses).
@@ -18372,6 +18375,7 @@ New usage of "pclssidN" is discouraged (3 uses).
 New usage of "pclun2N" is discouraged (0 uses).
 New usage of "pclunN" is discouraged (1 uses).
 New usage of "pclvalN" is discouraged (6 uses).
+New usage of "peano1OLD" is discouraged (0 uses).
 New usage of "peano5OLD" is discouraged (0 uses).
 New usage of "permsetexOLD" is discouraged (1 uses).
 New usage of "perpdragALT" is discouraged (0 uses).
@@ -19246,6 +19250,7 @@ New usage of "strlem4" is discouraged (1 uses).
 New usage of "strlem5" is discouraged (1 uses).
 New usage of "strlem6" is discouraged (1 uses).
 New usage of "strndxid" is discouraged (2 uses).
+New usage of "suceloniOLD" is discouraged (0 uses).
 New usage of "sucidALT" is discouraged (0 uses).
 New usage of "sucidALTVD" is discouraged (0 uses).
 New usage of "sucidVD" is discouraged (0 uses).
@@ -19580,6 +19585,7 @@ Proof modification of "19.41rgVD" is discouraged (127 steps).
 Proof modification of "19.43OLD" is discouraged (72 steps).
 Proof modification of "1div0apr" is discouraged (77 steps).
 Proof modification of "1oexOLD" is discouraged (4 steps).
+Proof modification of "1onOLD" is discouraged (9 steps).
 Proof modification of "1p1e2apr1" is discouraged (7 steps).
 Proof modification of "1p2e3ALT" is discouraged (7 steps).
 Proof modification of "1strbasOLD" is discouraged (22 steps).
@@ -19591,6 +19597,7 @@ Proof modification of "2falsedOLD" is discouraged (14 steps).
 Proof modification of "2irrexpqALT" is discouraged (90 steps).
 Proof modification of "2logb9irrALT" is discouraged (141 steps).
 Proof modification of "2oexOLD" is discouraged (9 steps).
+Proof modification of "2onOLD" is discouraged (9 steps).
 Proof modification of "2pm13.193" is discouraged (91 steps).
 Proof modification of "2pm13.193VD" is discouraged (223 steps).
 Proof modification of "2ralorOLD" is discouraged (109 steps).
@@ -20354,6 +20361,7 @@ Proof modification of "enfiALT" is discouraged (42 steps).
 Proof modification of "enfiiOLD" is discouraged (14 steps).
 Proof modification of "ensn1OLD" is discouraged (47 steps).
 Proof modification of "ensucne0OLD" is discouraged (82 steps).
+Proof modification of "epweonOLD" is discouraged (86 steps).
 Proof modification of "eq0ALT" is discouraged (31 steps).
 Proof modification of "eq0OLDOLD" is discouraged (6 steps).
 Proof modification of "eq0rdvALT" is discouraged (25 steps).
@@ -20966,6 +20974,7 @@ Proof modification of "ordelordALT" is discouraged (128 steps).
 Proof modification of "ordelordALTVD" is discouraged (202 steps).
 Proof modification of "orim12dALT" is discouraged (34 steps).
 Proof modification of "p0exALT" is discouraged (2 steps).
+Proof modification of "peano1OLD" is discouraged (9 steps).
 Proof modification of "peano5OLD" is discouraged (304 steps).
 Proof modification of "perfectALTV" is discouraged (528 steps).
 Proof modification of "permsetexOLD" is discouraged (42 steps).
@@ -21239,6 +21248,7 @@ Proof modification of "ssralv2VD" is discouraged (147 steps).
 Proof modification of "sstrALT2" is discouraged (81 steps).
 Proof modification of "sstrALT2VD" is discouraged (84 steps).
 Proof modification of "stdpc5t" is discouraged (23 steps).
+Proof modification of "suceloniOLD" is discouraged (160 steps).
 Proof modification of "sucidALT" is discouraged (28 steps).
 Proof modification of "sucidALTVD" is discouraged (28 steps).
 Proof modification of "sucidVD" is discouraged (24 steps).
