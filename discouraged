@@ -2887,6 +2887,7 @@
 "braval" is used by "kbass2".
 "braval" is used by "kbass6".
 "braval" is used by "rnbra".
+"brprcneuALT" is used by "fvprcALT".
 "c-bnj14" is used by "bnj1000".
 "c-bnj14" is used by "bnj1006".
 "c-bnj14" is used by "bnj1020".
@@ -5587,7 +5588,12 @@
 "dsndx" is used by "tnglemOLD".
 "dsndx" is used by "trkgstr".
 "dsndx" is used by "zlmdsOLD".
-"dtruALT2" is used by "fvprc".
+"dtruALT2" is used by "axc16b".
+"dtruALT2" is used by "brprcneuALT".
+"dtruALT2" is used by "dtrucor".
+"dtruALT2" is used by "dvdemo1".
+"dtruALT2" is used by "eunex".
+"dtruALT2" is used by "nfnid".
 "dvadiaN" is used by "diarnN".
 "dveel1" is used by "distel".
 "dveel2" is used by "axc14".
@@ -6059,6 +6065,8 @@
 "el12" is used by "suctrALTcfVD".
 "el123" is used by "suctrALTcfVD".
 "el2122old" is used by "suctrALTcfVD".
+"elALT2" is used by "dtruALT2".
+"elALT2" is used by "dvdemo2".
 "ela" is used by "atcv0".
 "ela" is used by "elat2".
 "ela" is used by "elatcv0".
@@ -15290,6 +15298,7 @@ New usage of "brdomgOLD" is discouraged (0 uses).
 New usage of "brdomiOLD" is discouraged (0 uses).
 New usage of "brenOLD" is discouraged (0 uses).
 New usage of "brfi1indALT" is discouraged (0 uses).
+New usage of "brprcneuALT" is discouraged (1 uses).
 New usage of "c-bnj14" is discouraged (131 uses).
 New usage of "c-bnj18" is discouraged (59 uses).
 New usage of "c0exALT" is discouraged (0 uses).
@@ -16231,7 +16240,7 @@ New usage of "drngoi" is discouraged (2 uses).
 New usage of "drsb1" is discouraged (3 uses).
 New usage of "dsndx" is discouraged (20 uses).
 New usage of "dtruALT" is discouraged (0 uses).
-New usage of "dtruALT2" is discouraged (1 uses).
+New usage of "dtruALT2" is discouraged (6 uses).
 New usage of "dtrucor2" is discouraged (0 uses).
 New usage of "dummylink" is discouraged (0 uses).
 New usage of "dvadiaN" is discouraged (1 uses).
@@ -16442,6 +16451,7 @@ New usage of "el12" is discouraged (4 uses).
 New usage of "el123" is discouraged (1 uses).
 New usage of "el2122old" is discouraged (1 uses).
 New usage of "elALT" is discouraged (0 uses).
+New usage of "elALT2" is discouraged (2 uses).
 New usage of "ela" is discouraged (3 uses).
 New usage of "elabOLD" is discouraged (0 uses).
 New usage of "elabgOLD" is discouraged (0 uses).
@@ -19993,6 +20003,7 @@ Proof modification of "brdomiOLD" is discouraged (30 steps).
 Proof modification of "brenOLD" is discouraged (130 steps).
 Proof modification of "brfi1indALT" is discouraged (741 steps).
 Proof modification of "brfvidRP" is discouraged (93 steps).
+Proof modification of "brprcneuALT" is discouraged (247 steps).
 Proof modification of "c0exALT" is discouraged (15 steps).
 Proof modification of "cad0OLD" is discouraged (44 steps).
 Proof modification of "cases2ALT" is discouraged (88 steps).
@@ -20139,7 +20150,7 @@ Proof modification of "drnfc1OLD" is discouraged (51 steps).
 Proof modification of "drnfc2" is discouraged (59 steps).
 Proof modification of "drnfc2OLD" is discouraged (52 steps).
 Proof modification of "dtruALT" is discouraged (79 steps).
-Proof modification of "dtruALT2" is discouraged (80 steps).
+Proof modification of "dtruALT2" is discouraged (161 steps).
 Proof modification of "dummylink" is discouraged (1 steps).
 Proof modification of "dveel2ALT" is discouraged (22 steps).
 Proof modification of "dveeq1-o" is discouraged (20 steps).
@@ -20312,6 +20323,7 @@ Proof modification of "el12" is discouraged (19 steps).
 Proof modification of "el123" is discouraged (26 steps).
 Proof modification of "el2122old" is discouraged (25 steps).
 Proof modification of "elALT" is discouraged (27 steps).
+Proof modification of "elALT2" is discouraged (48 steps).
 Proof modification of "elabOLD" is discouraged (10 steps).
 Proof modification of "elabgOLD" is discouraged (47 steps).
 Proof modification of "elabgtOLD" is discouraged (83 steps).
