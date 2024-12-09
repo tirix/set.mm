@@ -18301,6 +18301,7 @@ New usage of "onfrALTlem4VD" is discouraged (0 uses).
 New usage of "onfrALTlem5" is discouraged (2 uses).
 New usage of "onfrALTlem5VD" is discouraged (0 uses).
 New usage of "onnevOLD" is discouraged (0 uses).
+New usage of "onomeneqOLD" is discouraged (0 uses).
 New usage of "onsetreclem1" is discouraged (2 uses).
 New usage of "onsetreclem2" is discouraged (1 uses).
 New usage of "onsetreclem3" is discouraged (1 uses).
@@ -19259,6 +19260,8 @@ New usage of "strlem4" is discouraged (1 uses).
 New usage of "strlem5" is discouraged (1 uses).
 New usage of "strlem6" is discouraged (1 uses).
 New usage of "strndxid" is discouraged (2 uses).
+New usage of "sucdom2OLD" is discouraged (0 uses).
+New usage of "sucdomOLD" is discouraged (0 uses).
 New usage of "suceloniOLD" is discouraged (0 uses).
 New usage of "sucidALT" is discouraged (0 uses).
 New usage of "sucidALTVD" is discouraged (0 uses).
@@ -19360,6 +19363,7 @@ New usage of "un01" is discouraged (0 uses).
 New usage of "un10" is discouraged (0 uses).
 New usage of "un2122" is discouraged (1 uses).
 New usage of "undif3VD" is discouraged (0 uses).
+New usage of "undomOLD" is discouraged (0 uses).
 New usage of "unfiOLD" is discouraged (0 uses).
 New usage of "unieqOLD" is discouraged (0 uses).
 New usage of "unierri" is discouraged (0 uses).
@@ -20954,6 +20958,7 @@ Proof modification of "onfrALTlem4VD" is discouraged (116 steps).
 Proof modification of "onfrALTlem5" is discouraged (320 steps).
 Proof modification of "onfrALTlem5VD" is discouraged (320 steps).
 Proof modification of "onnevOLD" is discouraged (26 steps).
+Proof modification of "onomeneqOLD" is discouraged (251 steps).
 Proof modification of "opabresidOLD" is discouraged (50 steps).
 Proof modification of "opelopab4" is discouraged (69 steps).
 Proof modification of "opidon2OLD" is discouraged (80 steps).
@@ -21255,6 +21260,8 @@ Proof modification of "ssralv2VD" is discouraged (147 steps).
 Proof modification of "sstrALT2" is discouraged (81 steps).
 Proof modification of "sstrALT2VD" is discouraged (84 steps).
 Proof modification of "stdpc5t" is discouraged (23 steps).
+Proof modification of "sucdom2OLD" is discouraged (343 steps).
+Proof modification of "sucdomOLD" is discouraged (35 steps).
 Proof modification of "suceloniOLD" is discouraged (160 steps).
 Proof modification of "sucidALT" is discouraged (28 steps).
 Proof modification of "sucidALTVD" is discouraged (28 steps).
@@ -21339,6 +21346,7 @@ Proof modification of "un01" is discouraged (18 steps).
 Proof modification of "un10" is discouraged (18 steps).
 Proof modification of "un2122" is discouraged (44 steps).
 Proof modification of "undif3VD" is discouraged (295 steps).
+Proof modification of "undomOLD" is discouraged (322 steps).
 Proof modification of "unfiOLD" is discouraged (227 steps).
 Proof modification of "unieqOLD" is discouraged (40 steps).
 Proof modification of "uniprOLD" is discouraged (134 steps).
