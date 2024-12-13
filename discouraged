@@ -14423,6 +14423,7 @@ New usage of "ablomuldiv" is discouraged (3 uses).
 New usage of "ablonncan" is discouraged (1 uses).
 New usage of "ablonnncan1" is discouraged (1 uses).
 New usage of "abn0OLD" is discouraged (0 uses).
+New usage of "abrexexgOLD" is discouraged (0 uses).
 New usage of "abscncfALT" is discouraged (0 uses).
 New usage of "abshicom" is discouraged (1 uses).
 New usage of "abvALT" is discouraged (0 uses).
@@ -16027,11 +16028,13 @@ New usage of "dfch2" is discouraged (0 uses).
 New usage of "dfcnqs" is discouraged (4 uses).
 New usage of "dfeu" is discouraged (0 uses).
 New usage of "dffr2ALT" is discouraged (0 uses).
+New usage of "dffun2OLD" is discouraged (0 uses).
 New usage of "dfhnorm2" is discouraged (3 uses).
 New usage of "dfid2" is discouraged (1 uses).
 New usage of "dfid2OLD" is discouraged (0 uses).
 New usage of "dfid3" is discouraged (1 uses).
 New usage of "dfiop2" is discouraged (3 uses).
+New usage of "dfiun2gOLD" is discouraged (0 uses).
 New usage of "dfmo" is discouraged (0 uses).
 New usage of "dfnul2OLD" is discouraged (0 uses).
 New usage of "dfnul3OLD" is discouraged (0 uses).
@@ -16505,6 +16508,8 @@ New usage of "elnlfn" is discouraged (4 uses).
 New usage of "elnlfn2" is discouraged (2 uses).
 New usage of "elnp" is discouraged (5 uses).
 New usage of "elnpi" is discouraged (4 uses).
+New usage of "elopabrOLD" is discouraged (0 uses).
+New usage of "elopaelxpOLD" is discouraged (0 uses).
 New usage of "eloprabgaOLD" is discouraged (0 uses).
 New usage of "elovmporab1" is discouraged (0 uses).
 New usage of "elpaddatiN" is discouraged (2 uses).
@@ -17444,6 +17449,7 @@ New usage of "itg1addlem4OLD" is discouraged (0 uses).
 New usage of "itvndx" is discouraged (6 uses).
 New usage of "iunconnALT" is discouraged (0 uses).
 New usage of "iunconnlem2" is discouraged (1 uses).
+New usage of "iunopabOLD" is discouraged (0 uses).
 New usage of "ivthALT" is discouraged (0 uses).
 New usage of "jaoded" is discouraged (1 uses).
 New usage of "jcndOLD" is discouraged (0 uses).
@@ -19220,6 +19226,7 @@ New usage of "sspz" is discouraged (1 uses).
 New usage of "ssrab2OLD" is discouraged (0 uses).
 New usage of "ssralv2" is discouraged (2 uses).
 New usage of "ssralv2VD" is discouraged (0 uses).
+New usage of "ssrelOLD" is discouraged (0 uses).
 New usage of "sstrALT2" is discouraged (0 uses).
 New usage of "sstrALT2VD" is discouraged (0 uses).
 New usage of "st0" is discouraged (1 uses).
@@ -19495,6 +19502,7 @@ New usage of "wfrlem4OLD" is discouraged (1 uses).
 New usage of "wfrlem5OLD" is discouraged (1 uses).
 New usage of "wfrlem8OLD" is discouraged (1 uses).
 New usage of "wfrrelOLD" is discouraged (1 uses).
+New usage of "wksvOLD" is discouraged (0 uses).
 New usage of "wl-embant" is discouraged (0 uses).
 New usage of "wl-impchain-a1-1" is discouraged (1 uses).
 New usage of "wl-impchain-a1-2" is discouraged (1 uses).
@@ -19649,6 +19657,7 @@ Proof modification of "ab0orvALT" is discouraged (19 steps).
 Proof modification of "abbiOLD" is discouraged (51 steps).
 Proof modification of "abfOLD" is discouraged (13 steps).
 Proof modification of "abn0OLD" is discouraged (28 steps).
+Proof modification of "abrexexgOLD" is discouraged (43 steps).
 Proof modification of "abscncfALT" is discouraged (71 steps).
 Proof modification of "abvALT" is discouraged (36 steps).
 Proof modification of "ackm" is discouraged (71 steps).
@@ -20108,7 +20117,9 @@ Proof modification of "demoivreALT" is discouraged (1087 steps).
 Proof modification of "dfbi1ALT" is discouraged (100 steps).
 Proof modification of "dfeu" is discouraged (35 steps).
 Proof modification of "dffr2ALT" is discouraged (64 steps).
+Proof modification of "dffun2OLD" is discouraged (157 steps).
 Proof modification of "dfid2OLD" is discouraged (3 steps).
+Proof modification of "dfiun2gOLD" is discouraged (131 steps).
 Proof modification of "dfmo" is discouraged (44 steps).
 Proof modification of "dfnul2OLD" is discouraged (38 steps).
 Proof modification of "dfnul3OLD" is discouraged (42 steps).
@@ -20353,6 +20364,8 @@ Proof modification of "eliminable2b" is discouraged (7 steps).
 Proof modification of "eliminable2c" is discouraged (8 steps).
 Proof modification of "eliminable3a" is discouraged (7 steps).
 Proof modification of "eliminable3b" is discouraged (8 steps).
+Proof modification of "elopabrOLD" is discouraged (58 steps).
+Proof modification of "elopaelxpOLD" is discouraged (47 steps).
 Proof modification of "eloprabgaOLD" is discouraged (269 steps).
 Proof modification of "elpr2OLD" is discouraged (50 steps).
 Proof modification of "elpwOLD" is discouraged (20 steps).
@@ -20753,6 +20766,7 @@ Proof modification of "isvciOLD" is discouraged (178 steps).
 Proof modification of "itg1addlem4OLD" is discouraged (1803 steps).
 Proof modification of "iunconnALT" is discouraged (56 steps).
 Proof modification of "iunconnlem2" is discouraged (580 steps).
+Proof modification of "iunopabOLD" is discouraged (117 steps).
 Proof modification of "ivthALT" is discouraged (1080 steps).
 Proof modification of "jaoded" is discouraged (26 steps).
 Proof modification of "jath" is discouraged (318 steps).
@@ -21259,6 +21273,7 @@ Proof modification of "sspwtrALT2" is discouraged (72 steps).
 Proof modification of "ssrab2OLD" is discouraged (22 steps).
 Proof modification of "ssralv2" is discouraged (83 steps).
 Proof modification of "ssralv2VD" is discouraged (147 steps).
+Proof modification of "ssrelOLD" is discouraged (198 steps).
 Proof modification of "sstrALT2" is discouraged (81 steps).
 Proof modification of "sstrALT2VD" is discouraged (84 steps).
 Proof modification of "stdpc5t" is discouraged (23 steps).
@@ -21444,6 +21459,7 @@ Proof modification of "wfrlem4OLD" is discouraged (526 steps).
 Proof modification of "wfrlem5OLD" is discouraged (416 steps).
 Proof modification of "wfrlem8OLD" is discouraged (69 steps).
 Proof modification of "wfrrelOLD" is discouraged (89 steps).
+Proof modification of "wksvOLD" is discouraged (81 steps).
 Proof modification of "wl-cases2-dnf" is discouraged (85 steps).
 Proof modification of "wl-dfclab" is discouraged (73 steps).
 Proof modification of "wl-embant" is discouraged (12 steps).
