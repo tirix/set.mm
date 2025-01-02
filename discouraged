@@ -5127,7 +5127,6 @@
 "dfhnorm2" is used by "hilnormi".
 "dfhnorm2" is used by "normf".
 "dfhnorm2" is used by "normval".
-"dfid2" is used by "fsplitOLD".
 "dfid3" is used by "dfid2OLD".
 "dfiop2" is used by "hoico1".
 "dfiop2" is used by "hoico2".
@@ -16041,7 +16040,7 @@ New usage of "dffun2OLDOLD" is discouraged (0 uses).
 New usage of "dffun3OLD" is discouraged (0 uses).
 New usage of "dffun6OLD" is discouraged (0 uses).
 New usage of "dfhnorm2" is discouraged (3 uses).
-New usage of "dfid2" is discouraged (1 uses).
+New usage of "dfid2" is discouraged (0 uses).
 New usage of "dfid2OLD" is discouraged (0 uses).
 New usage of "dfid3" is discouraged (1 uses).
 New usage of "dfiop2" is discouraged (3 uses).
@@ -16534,8 +16533,6 @@ New usage of "elpjrn" is discouraged (0 uses).
 New usage of "elpqn" is discouraged (24 uses).
 New usage of "elpr2OLD" is discouraged (0 uses).
 New usage of "elprnq" is discouraged (22 uses).
-New usage of "elpwOLD" is discouraged (0 uses).
-New usage of "elpwgOLD" is discouraged (0 uses).
 New usage of "elpwgded" is discouraged (2 uses).
 New usage of "elpwgdedVD" is discouraged (1 uses).
 New usage of "elpwi2OLD" is discouraged (0 uses).
@@ -16709,7 +16706,6 @@ New usage of "footexALT" is discouraged (0 uses).
 New usage of "frgrwopreglem5ALT" is discouraged (0 uses).
 New usage of "friOLD" is discouraged (0 uses).
 New usage of "fsetprcnexALT" is discouraged (0 uses).
-New usage of "fsplitOLD" is discouraged (0 uses).
 New usage of "fuchomOLD" is discouraged (0 uses).
 New usage of "funadj" is discouraged (4 uses).
 New usage of "funcnvadj" is discouraged (1 uses).
@@ -18702,7 +18698,6 @@ New usage of "pwfilemOLD" is discouraged (0 uses).
 New usage of "pwsnOLD" is discouraged (0 uses).
 New usage of "pwtrVD" is discouraged (0 uses).
 New usage of "pwtrrVD" is discouraged (0 uses).
-New usage of "pwunssOLD" is discouraged (0 uses).
 New usage of "pythi" is discouraged (0 uses).
 New usage of "qexALT" is discouraged (1 uses).
 New usage of "qlax1i" is discouraged (0 uses).
@@ -20405,8 +20400,6 @@ Proof modification of "elopabrOLD" is discouraged (58 steps).
 Proof modification of "elopaelxpOLD" is discouraged (47 steps).
 Proof modification of "eloprabgaOLD" is discouraged (269 steps).
 Proof modification of "elpr2OLD" is discouraged (50 steps).
-Proof modification of "elpwOLD" is discouraged (20 steps).
-Proof modification of "elpwgOLD" is discouraged (29 steps).
 Proof modification of "elpwgded" is discouraged (23 steps).
 Proof modification of "elpwgdedVD" is discouraged (23 steps).
 Proof modification of "elpwi2OLD" is discouraged (21 steps).
@@ -20673,7 +20666,6 @@ Proof modification of "frege98" is discouraged (116 steps).
 Proof modification of "frgrwopreglem5ALT" is discouraged (519 steps).
 Proof modification of "friOLD" is discouraged (96 steps).
 Proof modification of "fsetprcnexALT" is discouraged (190 steps).
-Proof modification of "fsplitOLD" is discouraged (234 steps).
 Proof modification of "fuchomOLD" is discouraged (229 steps).
 Proof modification of "funcrngcsetcALT" is discouraged (765 steps).
 Proof modification of "fundcmpsurinjALT" is discouraged (221 steps).
@@ -21096,7 +21088,6 @@ Proof modification of "pwfilemOLD" is discouraged (197 steps).
 Proof modification of "pwsnOLD" is discouraged (164 steps).
 Proof modification of "pwtrVD" is discouraged (110 steps).
 Proof modification of "pwtrrVD" is discouraged (110 steps).
-Proof modification of "pwunssOLD" is discouraged (61 steps).
 Proof modification of "qexALT" is discouraged (64 steps).
 Proof modification of "quoremnn0ALT" is discouraged (360 steps).
 Proof modification of "r19.12OLD" is discouraged (69 steps).
