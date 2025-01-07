@@ -16560,6 +16560,7 @@ New usage of "en0ALT" is discouraged (0 uses).
 New usage of "en0OLD" is discouraged (0 uses).
 New usage of "en1OLD" is discouraged (0 uses).
 New usage of "en1bOLD" is discouraged (0 uses).
+New usage of "en1eqsnOLD" is discouraged (0 uses).
 New usage of "en1unielOLD" is discouraged (0 uses).
 New usage of "en2snOLD" is discouraged (0 uses).
 New usage of "en2snOLDOLD" is discouraged (0 uses).
@@ -16676,6 +16677,7 @@ New usage of "f1cofveqaeqALT" is discouraged (0 uses).
 New usage of "f1dmOLD" is discouraged (0 uses).
 New usage of "f1dom2gOLD" is discouraged (0 uses).
 New usage of "f1eqcocnvOLD" is discouraged (0 uses).
+New usage of "f1finf1oOLD" is discouraged (0 uses).
 New usage of "f1omoALT" is discouraged (0 uses).
 New usage of "f1oweALT" is discouraged (0 uses).
 New usage of "f1rhm0to0ALT" is discouraged (0 uses).
@@ -17416,6 +17418,7 @@ New usage of "ishlatiN" is discouraged (0 uses).
 New usage of "ishlo" is discouraged (4 uses).
 New usage of "ishmo" is discouraged (0 uses).
 New usage of "ishst" is discouraged (4 uses).
+New usage of "isinfOLD" is discouraged (0 uses).
 New usage of "isline4N" is discouraged (0 uses).
 New usage of "islno" is discouraged (5 uses).
 New usage of "islpolN" is discouraged (6 uses).
@@ -18296,6 +18299,7 @@ New usage of "odubasOLD" is discouraged (0 uses).
 New usage of "oldmm3N" is discouraged (2 uses).
 New usage of "olposN" is discouraged (0 uses).
 New usage of "om0x" is discouraged (0 uses).
+New usage of "ominfOLD" is discouraged (0 uses).
 New usage of "omlfh1N" is discouraged (2 uses).
 New usage of "omlfh3N" is discouraged (0 uses).
 New usage of "omllaw2N" is discouraged (3 uses).
@@ -20418,6 +20422,7 @@ Proof modification of "en0ALT" is discouraged (62 steps).
 Proof modification of "en0OLD" is discouraged (86 steps).
 Proof modification of "en1OLD" is discouraged (164 steps).
 Proof modification of "en1bOLD" is discouraged (83 steps).
+Proof modification of "en1eqsnOLD" is discouraged (86 steps).
 Proof modification of "en1unielOLD" is discouraged (39 steps).
 Proof modification of "en2snOLD" is discouraged (56 steps).
 Proof modification of "en2snOLDOLD" is discouraged (35 steps).
@@ -20485,6 +20490,7 @@ Proof modification of "f1cofveqaeqALT" is discouraged (124 steps).
 Proof modification of "f1dmOLD" is discouraged (19 steps).
 Proof modification of "f1dom2gOLD" is discouraged (77 steps).
 Proof modification of "f1eqcocnvOLD" is discouraged (361 steps).
+Proof modification of "f1finf1oOLD" is discouraged (211 steps).
 Proof modification of "f1omoALT" is discouraged (39 steps).
 Proof modification of "f1oweALT" is discouraged (805 steps).
 Proof modification of "f1rhm0to0ALT" is discouraged (161 steps).
@@ -20794,6 +20800,7 @@ Proof modification of "isarep1OLD" is discouraged (106 steps).
 Proof modification of "iscmgmALT" is discouraged (57 steps).
 Proof modification of "iscsgrpALT" is discouraged (57 steps).
 Proof modification of "iseriALT" is discouraged (54 steps).
+Proof modification of "isinfOLD" is discouraged (588 steps).
 Proof modification of "ismgmALT" is discouraged (53 steps).
 Proof modification of "ismgmOLD" is discouraged (292 steps).
 Proof modification of "isosctrlem1ALT" is discouraged (363 steps).
@@ -21000,6 +21007,7 @@ Proof modification of "nsnlpligALT" is discouraged (110 steps).
 Proof modification of "o2p2e4OLD" is discouraged (67 steps).
 Proof modification of "odfvalALT" is discouraged (181 steps).
 Proof modification of "odubasOLD" is discouraged (62 steps).
+Proof modification of "ominfOLD" is discouraged (79 steps).
 Proof modification of "omsindsOLD" is discouraged (89 steps).
 Proof modification of "ondomon" is discouraged (287 steps).
 Proof modification of "onfrALT" is discouraged (88 steps).
