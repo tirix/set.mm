@@ -88,6 +88,9 @@ make a github issue.)
 
 DONE:
 Date      Old       New         Notes
+10-Jan-25 fldcrngd  [same]      Moved from SN's mathbox to main set.mm
+10-Jan-25 drngringd [same]      Moved from SN's mathbox to main set.mm
+10-Jan-25 drnggrpd  [same]      Moved from SN's mathbox to main set.mm
  9-Jan-25 nfrexdg   nfrexd      consistent with nfrald
  9-Jan-25 nfrexg    nfrex       consistent with nfral
  7-Jan-25 rhmdvdsr  [same]      Moved from TA's mathbox to main set.mm
