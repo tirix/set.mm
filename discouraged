@@ -4783,7 +4783,7 @@
 "df-erq" is used by "nqerid".
 "df-erq" is used by "nqerrel".
 "df-exid" is used by "isexid".
-"df-fld" is used by "fldcrng".
+"df-fld" is used by "fldcrngo".
 "df-fld" is used by "flddivrng".
 "df-fld" is used by "isfld2".
 "df-gcdOLD" is used by "ee7.2aOLD".
@@ -5563,7 +5563,7 @@
 "drnfc1" is used by "nfcvb".
 "drnfc1" is used by "nfriotad".
 "drngoi" is used by "dvrunz".
-"drngoi" is used by "fldcrng".
+"drngoi" is used by "fldcrngo".
 "drsb1" is used by "iotaeq".
 "drsb1" is used by "sb2ae".
 "drsb1" is used by "sbco3".
