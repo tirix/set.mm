@@ -15816,6 +15816,7 @@ New usage of "csbrngVD" is discouraged (0 uses).
 New usage of "csbsngVD" is discouraged (0 uses).
 New usage of "csbunigVD" is discouraged (0 uses).
 New usage of "csbxpgVD" is discouraged (0 uses).
+New usage of "cshwsexaOLD" is discouraged (0 uses).
 New usage of "csmdsymi" is discouraged (0 uses).
 New usage of "currysetALT" is discouraged (0 uses).
 New usage of "cvati" is discouraged (1 uses).
@@ -17471,6 +17472,7 @@ New usage of "itg1addlem4OLD" is discouraged (0 uses).
 New usage of "itvndx" is discouraged (6 uses).
 New usage of "iunconnALT" is discouraged (0 uses).
 New usage of "iunconnlem2" is discouraged (1 uses).
+New usage of "iunidOLD" is discouraged (0 uses).
 New usage of "iunopabOLD" is discouraged (0 uses).
 New usage of "ivthALT" is discouraged (0 uses).
 New usage of "jaoded" is discouraged (1 uses).
@@ -18741,6 +18743,7 @@ New usage of "r19.35OLD" is discouraged (0 uses).
 New usage of "r1omALT" is discouraged (0 uses).
 New usage of "r1pwALT" is discouraged (0 uses).
 New usage of "rabbiiaOLD" is discouraged (0 uses).
+New usage of "rabeqcOLD" is discouraged (0 uses).
 New usage of "rabeqiOLD" is discouraged (0 uses).
 New usage of "rabid2OLD" is discouraged (0 uses).
 New usage of "rabrabiOLD" is discouraged (0 uses).
@@ -20164,6 +20167,7 @@ Proof modification of "csbrngVD" is discouraged (266 steps).
 Proof modification of "csbsngVD" is discouraged (204 steps).
 Proof modification of "csbunigVD" is discouraged (302 steps).
 Proof modification of "csbxpgVD" is discouraged (538 steps).
+Proof modification of "cshwsexaOLD" is discouraged (168 steps).
 Proof modification of "curryset" is discouraged (72 steps).
 Proof modification of "currysetALT" is discouraged (13 steps).
 Proof modification of "currysetlem" is discouraged (49 steps).
@@ -20845,6 +20849,7 @@ Proof modification of "isvciOLD" is discouraged (178 steps).
 Proof modification of "itg1addlem4OLD" is discouraged (1803 steps).
 Proof modification of "iunconnALT" is discouraged (56 steps).
 Proof modification of "iunconnlem2" is discouraged (580 steps).
+Proof modification of "iunidOLD" is discouraged (77 steps).
 Proof modification of "iunopabOLD" is discouraged (117 steps).
 Proof modification of "ivthALT" is discouraged (1080 steps).
 Proof modification of "jaoded" is discouraged (26 steps).
@@ -21156,6 +21161,7 @@ Proof modification of "r19.35OLD" is discouraged (72 steps).
 Proof modification of "r1omALT" is discouraged (13 steps).
 Proof modification of "r1pwALT" is discouraged (151 steps).
 Proof modification of "rabbiiaOLD" is discouraged (39 steps).
+Proof modification of "rabeqcOLD" is discouraged (37 steps).
 Proof modification of "rabeqiOLD" is discouraged (59 steps).
 Proof modification of "rabid2OLD" is discouraged (57 steps).
 Proof modification of "rabrabiOLD" is discouraged (38 steps).
