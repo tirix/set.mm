@@ -140,6 +140,7 @@ Date      Old       New         Notes
  7-Jan-25 ringi     ringdilem
  5-Jan-25 nfrexd    nfrexdw     consistent with nfraldw
  5-Jan-25 nfrex     nfrexw      consistent with nfralw
+ 5-Jan-25 rabss3d   [same]      moved from TA's mathbox to main set.mm
  4-Jan-25 smorndom  smocdmdom
  4-Jan-25 ralimda   ---         obsolete - use ralimdaa instead
  3-Jan-25 srgi      srgdilem
